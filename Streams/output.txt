@@ -1,0 +1,4 @@
+Hello stream world!
+Enter a number>10  squared is 100
+Enter a number>100  squared is 10000
+Enter a number>Bye!
